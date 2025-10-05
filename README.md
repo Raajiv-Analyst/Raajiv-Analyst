@@ -18,26 +18,40 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
 
 ## 🛠️ Technical Skills
 
-**Analysis & Documentation:**
-- Requirements Gathering & Analysis
-- Business Process Modeling (BPMN)
-- User Stories & Use Cases
-- Gap Analysis
-- Stakeholder Management
+<div align="center">
 
-**Tools & Technologies:**
-- **Data Analysis:** Excel (Advanced), SQL, Python
-- **Visualization:** Power BI, Tableau
-- **Documentation:** MS Visio, Lucidchart, Confluence
-- **Project Management:** JIRA, Trello
-- **Methodologies:** Agile, Scrum, Waterfall
+### 💻 Tools & Technologies
 
-**Technical Proficiencies:**
-- Database Management (MySQL, PostgreSQL)
-- Statistical Analysis
-- Data Cleaning & Transformation
-- Report Generation
-- API Testing (Postman)
+<table>
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-word-2019--v2.png" alt="MS Word" width="65px"/>
+      <br/><b>MS Word</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="65px"/>
+      <br/><b>MS Excel</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-powerpoint-2019--v1.png" alt="MS PowerPoint" width="65px"/>
+      <br/><b>MS PowerPoint</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="65px"/>
+      <br/><b>MySQL</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="65px"/>
+      <br/><b>Power BI</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/scrum.png" alt="Agile" width="65px"/>
+      <br/><b>Agile</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -52,66 +66,55 @@ I'm committed to continuous learning and professional development. Here are my c
 <table>
   <tr>
     <td align="center" width="200px">
-      <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/><br/>
-      <b>Google Data Analytics Professional Certificate</b><br/>
-      <sub>Coursera | 2024</sub>
+      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 1"/>
+      </a><br/>
+      <b>Certification 1</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">View Certificate →</a>
     </td>
     <td align="center" width="200px">
-      <img src="https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/><br/>
-      <b>Microsoft Excel - Advanced</b><br/>
-      <sub>Microsoft | 2024</sub>
+      <a href="https://lnkd.in/gSrMn54d" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 2"/>
+      </a><br/>
+      <b>Certification 2</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://lnkd.in/gSrMn54d" target="_blank">View Certificate →</a>
     </td>
     <td align="center" width="200px">
-      <img src="https://img.shields.io/badge/SQL-Database-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/><br/>
-      <b>SQL for Data Analysis</b><br/>
-      <sub>Udemy | 2024</sub>
+      <a href="https://lnkd.in/g2MfndT3" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 3"/>
+      </a><br/>
+      <b>Certification 3</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://lnkd.in/g2MfndT3" target="_blank">View Certificate →</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="200px">
-      <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/><br/>
-      <b>Power BI Data Analyst Associate</b><br/>
-      <sub>Microsoft | 2024</sub>
+      <a href="https://lnkd.in/gfEkFpuz" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 4"/>
+      </a><br/>
+      <b>Certification 4</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://lnkd.in/gfEkFpuz" target="_blank">View Certificate →</a>
     </td>
     <td align="center" width="200px">
-      <img src="https://img.shields.io/badge/Agile-Scrum_Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/><br/>
-      <b>Agile & Scrum Fundamentals</b><br/>
-      <sub>Scrum Alliance | 2024</sub>
+      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 5"/>
+      </a><br/>
+      <b>Certification 5</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">View Certificate →</a>
     </td>
     <td align="center" width="200px">
     </td>
   </tr>
 </table>
 
-**Replace the certificate names above with your actual certifications!**
+**Click on "View Certificate →" to see my verified certifications!**
 
 </div>
-
----
-
-### 📸 Certificate Images
-
-<details>
-<summary><b>Click to view my certificates 📜</b></summary>
-
-<br/>
-
-#### 1️⃣ Google Data Analytics Professional Certificate
-<img src="URL_TO_YOUR_CERTIFICATE_1" alt="Certificate 1" width="600px"/>
-
-#### 2️⃣ Microsoft Excel - Advanced
-<img src="URL_TO_YOUR_CERTIFICATE_2" alt="Certificate 2" width="600px"/>
-
-#### 3️⃣ SQL for Data Analysis
-<img src="URL_TO_YOUR_CERTIFICATE_3" alt="Certificate 3" width="600px"/>
-
-#### 4️⃣ Power BI Data Analyst Associate
-<img src="URL_TO_YOUR_CERTIFICATE_4" alt="Certificate 4" width="600px"/>
-
-#### 5️⃣ Agile & Scrum Fundamentals
-<img src="URL_TO_YOUR_CERTIFICATE_5" alt="Certificate 5" width="600px"/>
-
-</details>
 
 ---
 
@@ -163,22 +166,12 @@ I'm actively seeking opportunities as a Business Analyst where I can:
 
 I'm always open to discussing Business Analysis, data analytics, or potential collaboration opportunities!
 
-- 📧 Email: raajivraajiv28@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 📱 Portfolio: [Your Portfolio Website]
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajivraajiv28@gmail.com)
 
-## 💭 Quote I Live By
-
-> "Data is the new oil, but analytics is the combustion engine." - Peter Sondergaard
-
----
-
-⭐️ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
-
-📌 **Open to freelance projects and collaboration opportunities**
+</div>
 
 ---
 
