@@ -45,8 +45,12 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
       <br/><b>Power BI</b>
     </td>
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/scrum.png" alt="Agile" width="65px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Agile" width="65px"/>
       <br/><b>Agile</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="65px"/>
+      <br/><b>raajivraajiv28@gmail.com</b>
     </td>
   </tr>
 </table>
@@ -108,6 +112,12 @@ I'm committed to continuous learning and professional development. Here are my c
       <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">View Certificate →</a>
     </td>
     <td align="center" width="200px">
+      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 6"/>
+      </a><br/>
+      <b>Certification 6</b><br/>
+      <sub>LinkedIn Learning | 2024</sub><br/>
+      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">View Certificate →</a>
     </td>
   </tr>
 </table>
