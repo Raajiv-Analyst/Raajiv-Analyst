@@ -48,10 +48,6 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Agile" width="65px"/>
       <br/><b>Agile</b>
     </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="65px"/>
-      <br/><b>raajivraajiv28@gmail.com</b>
-    </td>
   </tr>
 </table>
 
@@ -154,11 +150,30 @@ I'm committed to continuous learning and professional development. Here are my c
 
 ---
 
-## 📈 GitHub Stats
+## 📈 LeetCode Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raajiv-Analyst&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raajiv-Analyst&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raajiv-Analyst?theme=dark&font=Ubuntu&ext=heatmap)
+
+</div>
+
+---
+
+## 💻 Most Used Language
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="80px"/>
+      <br/><b>SQL</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
