@@ -175,10 +175,6 @@ I'm committed to continuous learning and professional development. Here are my c
       <br/><b>SQL</b>
     </td>
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80px"/>
-      <br/><b>Python</b>
-    </td>
-    <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
       <br/><b>Excel</b>
     </td>
