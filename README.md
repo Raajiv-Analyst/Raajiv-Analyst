@@ -140,7 +140,7 @@ I'm committed to continuous learning and professional development. Here are my c
 - Implemented data cleaning and transformation techniques
 - Generated actionable recommendations based on analytical findings
 
-[🔗 View Project](https://github.com/Raajiv-Analyst/Meta-Analysis)
+[🔗 View Project](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9 GitHub project meta dashboard)
 
 ---
 
