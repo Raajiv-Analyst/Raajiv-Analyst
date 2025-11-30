@@ -128,29 +128,19 @@ I'm committed to continuous learning and professional development. Here are my c
 
 ---
 
-## 📊 Projects & Case Studies
+## 📊 Featured Project
 
-### 📈 Project 1: [Project Name]
-**Description:** Brief description of your project and what business problem it solved  
-**Tools Used:** Excel, Power BI, SQL  
+### 📈 Meta-Analysis Dashboard
+**Repository:** [Meta-Analysis](https://github.com/Raajiv-Analyst/Meta-Analysis)  
+**Description:** Comprehensive data analysis project focusing on Meta's business metrics and performance indicators  
+**Tools Used:** Python, Power BI, SQL, Excel  
 **Key Achievements:**
-- Achievement 1
-- Achievement 2
-- Achievement 3
+- Analyzed and visualized Meta's business performance data
+- Created interactive dashboards for data-driven insights
+- Implemented data cleaning and transformation techniques
+- Generated actionable recommendations based on analytical findings
 
-### 📉 Project 2: [Project Name]
-**Description:** Brief description of your project  
-**Tools Used:** Python, Tableau, MySQL  
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
-
-### 💼 Project 3: [Project Name]
-**Description:** Brief description of your project  
-**Tools Used:** Excel, JIRA, Visio  
-**Key Achievements:**
-- Achievement 1
-- Achievement 2
+[🔗 View Project](https://github.com/Raajiv-Analyst/Meta-Analysis)
 
 ---
 
@@ -207,9 +197,10 @@ I'm always open to discussing Business Analysis, data analytics, or potential co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajivraajiv28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
 
 </div>
 
 ---
 
-*Last Updated: October 2025*
+*Last Updated: November 2025*
