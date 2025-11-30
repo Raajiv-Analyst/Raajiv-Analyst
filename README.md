@@ -144,16 +144,6 @@ I'm committed to continuous learning and professional development. Here are my c
 
 ---
 
-## 📈 LeetCode Stats
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raajiv-Analyst?theme=dark&font=Ubuntu&ext=heatmap)
-
-</div>
-
----
-
 ## 💻 Most Used Tools & Technologies
 
 <div align="center">
