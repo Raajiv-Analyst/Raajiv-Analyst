@@ -171,7 +171,7 @@ I'm committed to continuous learning and professional development. Here are my c
 
 ## 🎯 What I'm Looking For
 
-I'm actively seeking opportunities as a Business Analyst where I can:
+I'm actively seeking opportunities as a Data Analyst and Business Analyst where I can:
 - Apply my analytical skills to solve real-world business problems
 - Collaborate with cross-functional teams
 - Contribute to data-driven decision-making processes
