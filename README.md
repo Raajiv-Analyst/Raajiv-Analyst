@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raajiv
 
-## 🚀 Aspiring Business Analyst | Data Enthusiast | Problem Solver
+## 🚀 Aspiring Data and Business Analyst | Data Enthusiast | Problem Solver
 
 I'm a passionate fresher Business Analyst with a strong foundation in data analysis, requirements gathering, and process optimization. I'm eager to transform complex business challenges into actionable insights and drive data-driven decision-making.
 
