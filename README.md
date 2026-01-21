@@ -45,6 +45,10 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
       <br/><b>Power BI</b>
     </td>
     <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="65px"/>
+      <br/><b>Tableau</b>
+    </td>
+    <td align="center" width="120px">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Agile" width="65px"/>
       <br/><b>Agile</b>
     </td>
@@ -140,7 +144,7 @@ I'm committed to continuous learning and professional development. Here are my c
 - Implemented data cleaning and transformation techniques
 - Generated actionable recommendations based on analytical findings
 
-[🔗 View Project](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9 GitHub project meta dashboard)
+[🔗 View Project](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9)
 
 ---
 
@@ -151,16 +155,24 @@ I'm committed to continuous learning and professional development. Here are my c
 <table>
   <tr>
     <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
+      <br/><b>MS Excel</b>
+    </td>
+    <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="80px"/>
       <br/><b>SQL</b>
     </td>
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
-      <br/><b>Excel</b>
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80px"/>
+      <br/><b>Python</b>
     </td>
     <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80px"/>
       <br/><b>Power BI</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="80px"/>
+      <br/><b>Tableau</b>
     </td>
   </tr>
 </table>
