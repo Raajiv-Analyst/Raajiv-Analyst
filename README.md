@@ -1,196 +1,212 @@
-# Hi there! 👋 I'm Raajiv
-
-## 🚀 Aspiring Business Analyst | Data Enthusiast | Problem Solver
-
-I'm a passionate fresher Business Analyst with a strong foundation in data analysis, requirements gathering, and process optimization. I'm eager to transform complex business challenges into actionable insights and drive data-driven decision-making.
-
----
-
-## 💼 About Me
-
-- 🎓 Recent graduate with a passion for bridging the gap between business and technology
-- 📊 Skilled in analyzing data, identifying trends, and creating meaningful visualizations
-- 🔍 Strong focus on understanding stakeholder needs and translating them into technical requirements
-- 💡 Enthusiastic about continuous learning and staying updated with industry best practices
-- 🌱 Currently exploring advanced analytics tools and methodologies
-
----
-
-## 🛠️ Technical Skills
+# Hi there, I'm Raajiv! 👋
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Transforming+Data+into+Insights;Driving+Business+Growth+with+Analytics)](https://git.io/typing-svg)
 
-### 💻 Tools & Technologies
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-word-2019--v2.png" alt="MS Word" width="65px"/>
-      <br/><b>MS Word</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="65px"/>
-      <br/><b>MS Excel</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-powerpoint-2019--v1.png" alt="MS PowerPoint" width="65px"/>
-      <br/><b>MS PowerPoint</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="65px"/>
-      <br/><b>MySQL</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="65px"/>
-      <br/><b>Power BI</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Agile" width="65px"/>
-      <br/><b>Agile</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="65px"/>
-      <br/><b>Python</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajivraajiv28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🚀 About Me
 
-I'm committed to continuous learning and professional development. Here are my certifications:
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Raajiv"
+        self.role = "Data Analyst | Business Analyst"
+        self.location = "Ooty, Tamil Nadu, India"
+        self.education = "Recent Graduate"
+        self.passion = ["Data Analytics", "Business Intelligence", "Problem Solving"]
+        
+    def get_skills(self):
+        return {
+            "analytics": ["Data Analysis", "Statistical Analysis", "Trend Identification"],
+            "business": ["Requirements Gathering", "Process Optimization", "Stakeholder Management"],
+            "visualization": ["Dashboard Creation", "Interactive Reports", "Data Storytelling"],
+            "approach": ["Data-Driven Decision Making", "Continuous Learning", "Agile Methodology"]
+        }
+```
+
+I'm a passionate **Data Analyst** and **Business Analyst** who loves turning complex data into actionable insights. My mission is to bridge the gap between data and business strategy, helping organizations make informed decisions that drive growth.
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 🎓 Professional Certifications
+### 📊 Data & Analytics Tools
 
-<table>
-  <tr>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 1"/>
-      </a><br/>
-      <b>Certification 1</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">View Certificate →</a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gSrMn54d" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 2"/>
-      </a><br/>
-      <b>Certification 2</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gSrMn54d" target="_blank">View Certificate →</a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/g2MfndT3" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 3"/>
-      </a><br/>
-      <b>Certification 3</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/g2MfndT3" target="_blank">View Certificate →</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gfEkFpuz" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 4"/>
-      </a><br/>
-      <b>Certification 4</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gfEkFpuz" target="_blank">View Certificate →</a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 5"/>
-      </a><br/>
-      <b>Certification 5</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">View Certificate →</a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 6"/>
-      </a><br/>
-      <b>Certification 6</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">View Certificate →</a>
-    </td>
-  </tr>
-</table>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Click on "View Certificate →" to see my verified certifications!**
+### 💼 Business & Productivity
+
+![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 📈 Core Competencies
+
+</div>
+
+```
+📊 Data Analysis & Visualization  ███████████████████░  95%
+💼 Business Requirements          ██████████████████░░  90%
+🗄️ SQL & Database Management     ████████████████░░░░  85%
+🐍 Python for Data Science       ███████████████░░░░░  80%
+📉 Statistical Analysis           ██████████████░░░░░░  75%
+🎯 Stakeholder Communication      ███████████████████░  95%
+```
+
+---
+
+## 🎓 Professional Certifications
+
+<div align="center">
+
+| Certification | Provider | Year | Link |
+|:-------------:|:--------:|:----:|:----:|
+| **Business Analysis Foundations** | LinkedIn Learning | 2024 | [View →](https://lnkd.in/gmyg8Jzy) |
+| **Data Analytics Certificate** | LinkedIn Learning | 2024 | [View →](https://lnkd.in/gSrMn54d) |
+| **SQL for Data Analysis** | LinkedIn Learning | 2024 | [View →](https://lnkd.in/g2MfndT3) |
+| **Power BI Essential Training** | LinkedIn Learning | 2024 | [View →](https://lnkd.in/gfEkFpuz) |
+| **Excel Advanced Analytics** | LinkedIn Learning | 2024 | [View →](https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e) |
+| **Agile Methodology** | LinkedIn Learning | 2024 | [View →](https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9) |
 
 </div>
 
 ---
 
-## 📊 Featured Project
+## 💼 Featured Projects
 
-### 📈 Meta-Analysis Dashboard
-**Repository:** [Meta-Analysis](https://github.com/Raajiv-Analyst/Meta-Analysis)  
-**Description:** Comprehensive data analysis project focusing on Meta's business metrics and performance indicators  
-**Tools Used:** Python, Power BI, SQL, Excel  
-**Key Achievements:**
-- Analyzed and visualized Meta's business performance data
-- Created interactive dashboards for data-driven insights
-- Implemented data cleaning and transformation techniques
-- Generated actionable recommendations based on analytical findings
-
-[🔗 View Project](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9 GitHub project meta dashboard)
-
----
-
-## 💻 Most Used Tools & Technologies
+### 📈 [Meta Business Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9)
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="80px"/>
-      <br/><b>SQL</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
-      <br/><b>Excel</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80px"/>
-      <br/><b>Power BI</b>
-    </td>
-  </tr>
-</table>
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Queries-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+**Business Impact:**
+- 📊 Comprehensive analysis of Meta's business metrics and KPIs
+- 📈 Interactive Power BI dashboard with real-time insights
+- 🔍 Data cleaning and transformation pipeline implementation
+- 💡 Actionable recommendations leading to strategic decisions
+- 📉 Trend analysis and predictive modeling
+
+**Technical Highlights:**
+- Processed and analyzed large datasets using Python (Pandas, NumPy)
+- Designed interactive visualizations in Power BI
+- Wrote complex SQL queries for data extraction
+- Created automated reporting workflows in Excel
+
+[🔗 **View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9) | [📂 **Repository**](https://github.com/Raajiv-Analyst/Meta-Analysis)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raajiv-Analyst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raajiv-Analyst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raajiv-Analyst&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 What I Bring to Your Team
 
-I'm actively seeking opportunities as a Business Analyst where I can:
-- Apply my analytical skills to solve real-world business problems
-- Collaborate with cross-functional teams
-- Contribute to data-driven decision-making processes
-- Grow professionally in a dynamic environment
+<div align="center">
+
+| 💡 **Problem Solving** | 📊 **Data-Driven** | 🤝 **Collaboration** | 📈 **Growth Mindset** |
+|:---:|:---:|:---:|:---:|
+| Analytical thinking to solve complex business challenges | Evidence-based decision making with actionable insights | Cross-functional teamwork and stakeholder management | Continuous learning and adaptability |
+
+</div>
+
+### 🔍 Areas of Expertise
+
+- **Data Analysis:** Statistical analysis, trend identification, pattern recognition, data mining
+- **Business Intelligence:** KPI development, dashboard creation, performance metrics, reporting automation
+- **Requirements Analysis:** Stakeholder interviews, user stories, process mapping, gap analysis
+- **Data Visualization:** Creating compelling narratives through Power BI, Excel, and Python libraries
+- **Process Improvement:** Identifying inefficiencies, recommending solutions, implementing best practices
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+```mermaid
+graph LR
+    A[Current Focus] --> B[Advanced SQL]
+    A --> C[Python Libraries]
+    A --> D[Machine Learning]
+    A --> E[Tableau]
+    B --> F[Window Functions]
+    B --> G[Query Optimization]
+    C --> H[Pandas & NumPy]
+    C --> I[Matplotlib & Seaborn]
+    D --> J[Predictive Analytics]
+    D --> K[Statistical Modeling]
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively seeking **Data Analyst** and **Business Analyst** roles where I can:
+
+✅ Transform raw data into strategic business insights  
+✅ Collaborate with stakeholders to drive data-driven decisions  
+✅ Build interactive dashboards and reporting solutions  
+✅ Optimize business processes through analytical thinking  
+✅ Contribute to organizational growth and innovation  
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing Business Analysis, data analytics, or potential collaboration opportunities!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajivraajiv28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
+I'm always excited to discuss data analytics, business intelligence, or potential collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajivraajiv28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
+
+### 💬 "Data is the new oil, but insights are the refined fuel that drives business success."
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raajiv-Analyst&color=2E9EF7&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-*Last Updated: November 2025*
+<div align="center">
+  
+**⭐ If you find my work interesting, consider giving my repositories a star!**
+
+*Last Updated: January 2026*
+
+</div>
