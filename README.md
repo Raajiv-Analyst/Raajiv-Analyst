@@ -24,34 +24,22 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
 
 <table>
   <tr>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-word-2019--v2.png" alt="MS Word" width="65px"/>
-      <br/><b>MS Word</b>
-    </td>
+    
     <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="65px"/>
       <br/><b>MS Excel</b>
     </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-powerpoint-2019--v1.png" alt="MS PowerPoint" width="65px"/>
-      <br/><b>MS PowerPoint</b>
-    </td>
+    
     <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="65px"/>
       <br/><b>MySQL</b>
     </td>
+    
     <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="65px"/>
       <br/><b>Power BI</b>
     </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="65px"/>
-      <br/><b>Tableau</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Agile" width="65px"/>
-      <br/><b>Agile</b>
-    </td>
+   
     <td align="center" width="120px">
       <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="65px"/>
       <br/><b>Python</b>
@@ -170,10 +158,7 @@ I'm committed to continuous learning and professional development. Here are my c
       <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80px"/>
       <br/><b>Power BI</b>
     </td>
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="Tableau" width="80px"/>
-      <br/><b>Tableau</b>
-    </td>
+    
   </tr>
 </table>
 
