@@ -22,28 +22,27 @@ I'm a passionate fresher Business Analyst with a strong foundation in data analy
 
 ### 💻 Tools & Technologies
 
+<div align="center">
+
 <table>
   <tr>
-    
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="65px"/>
+      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
       <br/><b>MS Excel</b>
     </td>
-    
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="65px"/>
-      <br/><b>MySQL</b>
+      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="80px"/>
+      <br/><b>SQL</b>
     </td>
-    
     <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="65px"/>
-      <br/><b>Power BI</b>
-    </td>
-   
-    <td align="center" width="120px">
-      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="65px"/>
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80px"/>
       <br/><b>Python</b>
     </td>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80px"/>
+      <br/><b>Power BI</b>
+    </td>
+    
   </tr>
 </table>
 
