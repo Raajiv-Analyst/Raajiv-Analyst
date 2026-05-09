@@ -59,60 +59,32 @@ I'm committed to continuous learning and professional development. Here are my c
 
 ### 🎓 Professional Certifications
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 1"/>
-      </a><br/>
-      <b>Certification 1</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gmyg8Jzy" target="_blank">View Certificate →</a>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" alt="Excel" width="80px"/>
+      <br/><b>MS Excel</b>
     </td>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gSrMn54d" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 2"/>
-      </a><br/>
-      <b>Certification 2</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gSrMn54d" target="_blank">View Certificate →</a>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="80px"/>
+      <br/><b>SQL</b>
     </td>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/g2MfndT3" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 3"/>
-      </a><br/>
-      <b>Certification 3</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/g2MfndT3" target="_blank">View Certificate →</a>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80px"/>
+      <br/><b>Python</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="200px">
-      <a href="https://lnkd.in/gfEkFpuz" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 4"/>
-      </a><br/>
-      <b>Certification 4</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://lnkd.in/gfEkFpuz" target="_blank">View Certificate →</a>
+    <td align="center" width="120px">
+      <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="80px"/>
+      <br/><b>Power BI</b>
     </td>
-    <td align="center" width="200px">
-      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 5"/>
-      </a><br/>
-      <b>Certification 5</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://www.linkedin.com/learning/certificates/0dc670eb146a6732d2a575a592418af7b6c54cc2df3025bbd9d24da5ee38974e" target="_blank">View Certificate →</a>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Certificate 6"/>
-      </a><br/>
-      <b>Certification 6</b><br/>
-      <sub>LinkedIn Learning | 2024</sub><br/>
-      <a href="https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9" target="_blank">View Certificate →</a>
-    </td>
+    
   </tr>
 </table>
+
+</div>
+
 
 **Click on "View Certificate →" to see my verified certifications!**
 
