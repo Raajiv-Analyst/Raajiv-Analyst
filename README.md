@@ -21,7 +21,27 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 
 <div align="center">
 
+| Skill | Technology |
+|---|---|
+| 📊 Data Analysis | Excel, SQL, Python, Power BI |
+| ⚙️ Data Engineering | Hadoop, Spark, Airflow |
+| ☁️ Cloud Platforms | AWS, Azure |
+| 🐧 Operating System | Linux |
+| 🤖 AI & Modern Tools | MCP, RAG, AI for Data Engineering |
+| 📈 Visualization | Power BI, Excel Dashboards |
+| 🗄️ Database | MySQL |
+| 🔄 ETL & Pipelines | Airflow, Spark |
+
+</div>
+
+---
+
+# 💻 Tools & Technologies
+
+<div align="center">
+
 <table>
+
 <tr>
 
 <td align="center" width="120px">
@@ -45,13 +65,18 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 </td>
 
 <td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/000000/linux.png" width="70px"/>
-<br><b>Linux</b>
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
+<br><b>AI</b>
 </td>
 
 </tr>
 
 <tr>
+
+<td align="center" width="120px">
+<img src="https://img.icons8.com/color/96/000000/linux.png" width="70px"/>
+<br><b>Linux</b>
+</td>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/hadoop-distributed-file-system.png" width="70px"/>
@@ -73,14 +98,14 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <br><b>Azure</b>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="70px"/>
 <br><b>Airflow</b>
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
@@ -90,6 +115,16 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/chatgpt.png" width="70px"/>
 <br><b>RAG</b>
+</td>
+
+<td align="center" width="120px">
+<img src="https://img.icons8.com/color/96/data-configuration.png" width="70px"/>
+<br><b>Data Engineering</b>
+</td>
+
+<td align="center" width="120px">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
+<br><b>AI for DE</b>
 </td>
 
 </tr>
