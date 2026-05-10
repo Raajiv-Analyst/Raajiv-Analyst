@@ -44,14 +44,14 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <br><b>Power BI</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/linux.png" width="70px"/>
 <br><b>Linux</b>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/hadoop-distributed-file-system.png" width="70px"/>
@@ -68,10 +68,6 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <br><b>AWS</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/azure-1.png" width="70px"/>
 <br><b>Azure</b>
@@ -83,6 +79,21 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="120px">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
+<br><b>MCP</b>
+</td>
+
+<td align="center" width="120px">
+<img src="https://img.icons8.com/color/96/chatgpt.png" width="70px"/>
+<br><b>RAG</b>
+</td>
+
+</tr>
+
 </table>
 
 </div>
@@ -144,17 +155,3 @@ Where I can:
 - Build scalable data solutions
 - Work with modern cloud and big data technologies
 - Grow professionally in analytics and engineering
-
----
-
-# 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg28@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
-
-</div>
