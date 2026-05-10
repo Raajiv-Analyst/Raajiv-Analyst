@@ -21,25 +21,6 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 
 <div align="center">
 
-| Skill | Technology |
-|---|---|
-| 📊 Data Analysis | Excel, SQL, Python, Power BI |
-| ⚙️ Data Engineering | Hadoop, Spark, Airflow |
-| ☁️ Cloud Platforms | AWS, Azure |
-| 🐧 Operating System | Linux |
-| 🤖 AI & Modern Tools | MCP, RAG, AI for Data Engineering |
-| 📈 Visualization | Power BI, Excel Dashboards |
-| 🗄️ Database | MySQL |
-| 🔄 ETL & Pipelines | Airflow, Spark |
-
-</div>
-
----
-
-# 💻 Tools & Technologies
-
-<div align="center">
-
 <table>
 
 <tr>
@@ -62,11 +43,6 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="70px"/>
 <br><b>Power BI</b>
-</td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
-<br><b>AI</b>
 </td>
 
 </tr>
@@ -93,14 +69,14 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <br><b>AWS</b>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/azure-1.png" width="70px"/>
 <br><b>Azure</b>
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="70px"/>
@@ -115,16 +91,6 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/chatgpt.png" width="70px"/>
 <br><b>RAG</b>
-</td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/data-configuration.png" width="70px"/>
-<br><b>Data Engineering</b>
-</td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
-<br><b>AI for DE</b>
 </td>
 
 </tr>
@@ -190,3 +156,17 @@ Where I can:
 - Build scalable data solutions
 - Work with modern cloud and big data technologies
 - Grow professionally in analytics and engineering
+
+---
+
+# 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg28@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raajiv-Analyst)
+
+</div>
