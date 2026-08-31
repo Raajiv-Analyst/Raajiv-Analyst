@@ -45,14 +45,14 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <br><b>Hadoop</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/apache-spark.png" width="70px"/>
 <br><b>Spark</b>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="70px"/>
@@ -69,10 +69,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <br><b>Airflow</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="120px">
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="70px"/>
 <br><b>Databricks</b>
@@ -87,12 +83,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 
 </table>
 
-</div>
-
-### 🧠 Data Engineering Skill Map
-
-<div align="center">
-<img src="./data-engineering-mindmap.png" width="450px"/>
 </div>
 
 ---
