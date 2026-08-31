@@ -107,6 +107,11 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <br><b>Databricks</b>
 </td>
 
+<td align="center" width="120px">
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="70px"/>
+<br><b>Kafka</b>
+</td>
+
 </tr>
 
 </table>
