@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raajiv
 
-# 🚀 Aspiring Data Engineer & Data Analyst | Data Enthusiast | Problem Solver
+# 🚀 Associate Data Engineer at Wipro 
 
 I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundation in data analysis, business intelligence, and data-driven decision-making. Currently working at **Wipro** as an **Associate Data Analyst**, I enjoy transforming raw data into meaningful insights and building scalable data solutions.
 
