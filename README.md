@@ -74,11 +74,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <tr>
 
 <td align="center" width="120px">
-<img src="https://cdn.simpleicons.org/dbt/FF694B" width="70px"/>
-<br><b>dbt</b>
-</td>
-
-<td align="center" width="120px">
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="70px"/>
 <br><b>Databricks</b>
 </td>
@@ -108,10 +103,7 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 
 | Certification | Link |
 |---|---|
-| 📘 Business Analysis Foundations | [View Certificate](https://www.linkedin.com/learning/certificates/a3b8d8eec21ac36352f7699c7314aa249155341d157986874da211ffdc5730f6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvvJOMHs5TvWkVQ6x6tYN0w%3D%3D) |
-| 📊 Introduction to Career Skills in Data Analytics | [View Certificate](https://www.linkedin.com/learning/certificates/5831d0d23d8316c2ef7e88804ba55b1e69380216b157ff4d60a856e10549788e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvvJOMHs5TvWkVQ6x6tYN0w%3D%3D) |
-| 📋 Project Management Foundations | [View Certificate](https://www.linkedin.com/learning/certificates/5dec5d838efd57efdb0ef08d90de32c642078e055482deced76b5a5ca16bed7e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnjVggO7aQxaRzP6ZxSH1Ww%3D%3D) |
-| 📑 Project Management Foundations Advanced | [View Certificate](https://www.linkedin.com/learning/certificates/61a7fb3ad797758e389f7856e8ce7602a999b114603be3949155a4ba7c43d0f9) |
+| 📊 Data Analytics Essentials (Cisco) | [View Certificate](https://drive.google.com/file/d/1NxPRxgrYakdb4FKTwaQB8UsbX4QsfFH3/view?pli=1) |
 
 </div>
 
