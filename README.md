@@ -1,19 +1,19 @@
 # Hi there! 👋 I'm Raajiv
 
-# 🚀 Associate Data Engineer at Wipro 
+# 🚀 Associate Data Engineer at Wipro
 
-I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundation in data analysis, business intelligence, and data-driven decision-making. Currently working at **Wipro** as an **Associate Data Analyst**, I enjoy transforming raw data into meaningful insights and building scalable data solutions.
+I'm a passionate Data Engineer with a strong foundation in data pipelines, business intelligence, and data-driven decision-making. Currently working at **Wipro** as an **Associate Data Engineer**, I enjoy building scalable data solutions and transforming raw data into meaningful, reliable pipelines.
 
 ---
 
 # 💼 About Me
 
-- 💼 Currently working at **Wipro** as an **Associate Data Analyst**
+- 💼 Currently working at **Wipro** as an **Associate Data Engineer**
 - 🎓 B.Com CA Graduate passionate about data and technology
-- 📊 Skilled in data analysis, visualization, reporting, and business insights
-- ⚙️ Exploring modern Data Engineering tools and cloud technologies
+- ⚙️ Skilled in building data pipelines, ETL processes, and cloud data solutions
+- 📊 Strong foundation in data analysis, visualization, and reporting
 - 🔍 Strong interest in solving business problems using data
-- 🌱 Continuously learning advanced analytics and big data technologies
+- 🌱 Continuously learning advanced big data technologies and cloud engineering
 
 ---
 
@@ -95,8 +95,28 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 
 </tr>
 
+<tr>
+
+<td align="center" width="120px">
+<img src="https://cdn.simpleicons.org/dbt/FF694B" width="70px"/>
+<br><b>dbt</b>
+</td>
+
+<td align="center" width="120px">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="70px"/>
+<br><b>Databricks</b>
+</td>
+
+</tr>
+
 </table>
 
+</div>
+
+### 🧠 Data Engineering Skill Map
+
+<div align="center">
+<img src="./data-engineering-mindmap.png" width="450px"/>
 </div>
 
 ---
@@ -116,54 +136,11 @@ I'm a passionate Data Analyst and aspiring Data Engineer with a strong foundatio
 
 ---
 
-# 📊 Featured Project
-
-## 📈 Meta-Analysis Dashboard
-
-### 🔗 Repository
-[Meta-Analysis Project](https://github.com/Raajiv-Analyst/Meta-Analysis)
-
-### 📌 Description
-Comprehensive data analysis project focusing on Meta's business metrics and performance indicators.
-
-### 🛠️ Tools Used
-- Python
-- Power BI
-- SQL
-- Excel
-
-### 🚀 Key Achievements
-- Analyzed and visualized Meta business performance data
-- Created interactive dashboards for business insights
-- Performed data cleaning and transformation
-- Generated actionable recommendations using analytics
-
-### 🌐 Live Dashboard
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDAzMGE5MjEtNjNjNC00ZWIxLThmMGMtMzcxODY1ODE1MDkwIiwidCI6ImY2Zjk3NDE3LTEwNjItNDYyZC05NzU3LTZjOTU4MzZmNDk3MSJ9)
-
----
-
-# 🎯 What I'm Looking For
-
-I'm actively seeking opportunities as a:
-
-- Data Analyst
-- Data Engineer
-- Business Analyst
-
-Where I can:
-- Solve real-world business problems using data
-- Build scalable data solutions
-- Work with modern cloud and big data technologies
-- Grow professionally in analytics and engineering
-
----
-
 # 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajiv28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-raajiv/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg28@gmail.com)
 
