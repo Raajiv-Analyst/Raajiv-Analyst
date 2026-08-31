@@ -26,11 +26,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <tr>
 
 <td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="70px"/>
-<br><b>Excel</b>
-</td>
-
-<td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="70px"/>
 <br><b>SQL</b>
 </td>
@@ -39,15 +34,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="70px"/>
 <br><b>Python</b>
 </td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/000000/power-bi.png" width="70px"/>
-<br><b>Power BI</b>
-</td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/linux.png" width="70px"/>
@@ -59,6 +45,10 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <br><b>Hadoop</b>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/apache-spark.png" width="70px"/>
 <br><b>Spark</b>
@@ -69,10 +59,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <br><b>AWS</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/azure-1.png" width="70px"/>
 <br><b>Azure</b>
@@ -81,16 +67,6 @@ I'm a passionate Data Engineer with a strong foundation in data pipelines, busin
 <td align="center" width="120px">
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="70px"/>
 <br><b>Airflow</b>
-</td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
-<br><b>MCP</b>
-</td>
-
-<td align="center" width="120px">
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="70px"/>
-<br><b>RAG</b>
 </td>
 
 </tr>
